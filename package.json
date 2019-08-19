@@ -1,7 +1,7 @@
 {
     "title": "Resume",
-    "name": "startbootstrap-resume",
-    "version": "5.0.7",
+    "name": "miguel-resume",
+    "version": "1.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
@@ -14,20 +14,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "https://mamora19.github.io/Resume/",
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
-    },
+    "author": "Miguel Mora",
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.9.0",
         "bootstrap": "4.3.1",
